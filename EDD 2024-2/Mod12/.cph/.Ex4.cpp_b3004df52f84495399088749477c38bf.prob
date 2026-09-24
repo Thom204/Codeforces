@@ -1,0 +1,1 @@
+{"name":"Local: Ex4","url":"c:\\Users\\thom1\\Documents\\u\\inf academica UNAL\\EDD 2024-2\\Mod12\\Ex4.cpp","tests":[{"id":1741139634407,"input":"2\nabc123\nabc987\n3\naaa\nbb\nabababa\n0\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\thom1\\Documents\\u\\inf academica UNAL\\EDD 2024-2\\Mod12\\Ex4.cpp","group":"local","local":true}
